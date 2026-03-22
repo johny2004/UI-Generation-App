@@ -1,4 +1,4 @@
-// Fix Node.js 25+ Web Storage SSR compatibility.
+ // Fix Node.js 25+ Web Storage SSR compatibility.
 //
 // Node 25 exposes global localStorage/sessionStorage via the experimental
 // Web Storage API (--experimental-webstorage, enabled by default). Without
